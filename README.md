@@ -1,4 +1,4 @@
-# BERT-NER
+# Medical Named Entity Recognition
 Notebooks for medical named entity recognition with BERT and Flair
 
 ## Workspace requirements
