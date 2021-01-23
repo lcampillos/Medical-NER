@@ -29,9 +29,9 @@ Check also the Flair tutorials at:
 If you use this code, please, make reference to the following article:
 
     A clinical trials corpus annotated with UMLS entities to enhance the access to Evidence-Based Medicine
-    Leonardo Campillos-Llanos, Ana Valverde-Mateos, Adrián Capllonch-Carrión, Antonio Moreno-Sandoval.   
+    Leonardo Campillos-Llanos, Ana Valverde-Mateos, Adrián Capllonch-Carrión, Antonio Moreno-Sandoval   
     *BMC Medical Informatics and Decision Making*, 2021
-    [https://doi.org/10.1186/s12911-021-01395-z][https://doi.org/10.1186/s12911-021-01395-z]
+    [https://doi.org/10.1186/s12911-021-01395-z]
 
 ```
   @article{campillosetal-midm2021,   
