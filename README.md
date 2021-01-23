@@ -25,6 +25,11 @@ Check also the Flair tutorials at:
 <https://github.com/flairNLP/flair>
 
 ## How to cite
+If you use this code, you can make reference to the article where the script was made available, as follows:
+
+     First Steps towards Building a Medical Lexicon for Spanish with Linguistic and Semantic Information  
+     Leonardo Campillos-Llanos.   
+     *Proc. of BioNLP 2019*, August 1st, 2019, Florence, Italy.   
 
 A clinical trials corpus annotated with UMLS entities to enhance the access to Evidence-Based Medicine
 Leonardo Campillos-Llanos, Ana Valverde-Mateos, Adrián Capllonch-Carrión, Antonio Moreno-Sandoval
