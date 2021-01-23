@@ -26,10 +26,10 @@ Check also the Flair tutorials at:
 
 ## How to cite
 
-     A clinical trials corpus annotated with UMLS entities to enhance the access to Evidence-Based Medicine
-     Leonardo Campillos-Llanos, Ana Valverde-Mateos, Adrián Capllonch-Carrión, Antonio Moreno-Sandoval
-     *BMC Medical Informatics and Decision Making*, 2021
-     https://doi.org/10.1186/s12911-021-01395-z
+A clinical trials corpus annotated with UMLS entities to enhance the access to Evidence-Based Medicine
+Leonardo Campillos-Llanos, Ana Valverde-Mateos, Adrián Capllonch-Carrión, Antonio Moreno-Sandoval
+*BMC Medical Informatics and Decision Making*, 2021
+https://doi.org/10.1186/s12911-021-01395-z
 
 ```
   @article{campillosetal-midm2021,   
