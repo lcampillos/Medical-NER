@@ -24,6 +24,7 @@ Check also the Flair tutorials at:
 
 <https://github.com/flairNLP/flair>
 
+## How to cite
 
 If you use this code, please, make reference to the following article:
 
