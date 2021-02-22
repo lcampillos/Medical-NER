@@ -29,13 +29,17 @@ If you use this code, you can make reference to the article where the script was
 
      A clinical trials corpus annotated with UMLS entities to enhance the access to Evidence-Based Medicine  
      Leonardo Campillos-Llanos, Ana Valverde-Mateos, Adrián Capllonch-Carrión, Antonio Moreno-Sandoval  
-     *BMC Medical Informatics and Decision Making*, 2021   
+     *BMC Medical Informatics and Decision Making* 21, 69 (2021)
+     Available at: <https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01395-z>
 
 ```
   @article{campillosetal-midm2021,   
   title       = {A clinical trials corpus annotated with UMLS entities to enhance the access to Evidence-Based Medicine},  
   author       = {Campillos-Llanos, Leonardo and Valverde-Mateos, Ana and Capllonch-Carri{\'o}n, Adri{\'a}n and Moreno-Sandoval, Antonio},   
   journal = {BMC Medical Informatics and Decision Making},
+  volume = {21},
+  number = {69},
   year      = {2021},
+  url = {https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01395-z},
   }
 ```
