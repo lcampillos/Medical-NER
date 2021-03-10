@@ -27,10 +27,9 @@ Check also the Flair tutorials at:
 ## How to cite
 If you use this code, you can make reference to the article where the script was made available, as follows:
 
-     A clinical trials corpus annotated with UMLS entities to enhance the access to Evidence-Based Medicine  
+     [A clinical trials corpus annotated with UMLS entities to enhance the access to Evidence-Based Medicine](http://www.lllf.uam.es/ESP/nlpdata/wp2/s12911-021-01395-z.pdf)  
      Leonardo Campillos-Llanos, Ana Valverde-Mateos, Adrián Capllonch-Carrión, Antonio Moreno-Sandoval  
      *BMC Medical Informatics and Decision Making* 21, 69 (2021)  
-     Available at: <https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01395-z>
 
 ```
   @article{campillosetal-midm2021,   
@@ -39,7 +38,6 @@ If you use this code, you can make reference to the article where the script was
   journal = {BMC Medical Informatics and Decision Making},
   volume = {21},
   number = {69},
-  year      = {2021},
-  url = {https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01395-z},
+  year      = {2021}
   }
 ```
