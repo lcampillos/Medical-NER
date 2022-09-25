@@ -1,6 +1,8 @@
 # Medical Named Entity Recognition
 Notebooks for medical named entity recognition with BERT and Flair, used in the article "A clinical trials corpus annotated with UMLS entities to enhance the access to Evidence-Based Medicine".
 
+**Update (2022)**: The [annotated data](https://huggingface.co/datasets/lcampillos/ctebmsp) and the [BERT trained model](https://huggingface.co/lcampillos/roberta-es-clinical-trials-ner) is now available in the [Huggingface hub](https://huggingface.co/lcampillos/roberta-es-clinical-trials-ner).
+
 ## Workspace requirements
 - Python 3.6+
 - Pytorch 1.3+
